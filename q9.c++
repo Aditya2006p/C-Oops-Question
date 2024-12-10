@@ -1,3 +1,9 @@
+// Construct a Program in C++ to show the working of
+// function overloading(compile time polymorphism) by
+// using a function named calculate Area () to calculate area
+// of square, rectangle and triangle using different
+// signatures as required.
+
 #include <iostream>
 using namespace std;
 int calculateArea(int side) {

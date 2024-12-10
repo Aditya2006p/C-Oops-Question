@@ -1,3 +1,6 @@
+// Construct a C++ program that removes a specific
+// character from a given string and return updated string. 
+
 #include <iostream>
 using namespace std;
 string removeCharacter (string & inputStr, char charToRemove){

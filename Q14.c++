@@ -1,3 +1,7 @@
+// Create a class Complex having two int type variable named real & img denoting real and imaginary part
+// respectively of a complex number. Overload +, - , == operator to add, to subtract and to compare two complex
+// numbers being denoted by the two complex type objects
+
 #include <iostream>
 using namespace std;
 

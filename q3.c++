@@ -1,3 +1,6 @@
+// Implement a C++ program to find the non-repeating
+// characters in string. 
+
 #include <iostream>
 using namespace std;
 //Brute Force Approach - Time : O(n2), Space : O(1)
